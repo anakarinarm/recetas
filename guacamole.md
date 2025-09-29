@@ -3,5 +3,4 @@
 * aguacate
 * limón
 * sal
-* ajo
 ## Preparación
